@@ -4,7 +4,6 @@ This is a chat app made with MERN stack and Redux. UI is based on Whatsapp and S
 
 Hosted at [https://chat2545.herokuapp.com/](https://chat2545.herokuapp.com/)
 
-Video explanation: [https://youtu.be/U-oofqyElDU](https://youtu.be/U-oofqyElDU)
 
 ## Run Dev Server
 
